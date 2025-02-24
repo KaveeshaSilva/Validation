@@ -66,7 +66,6 @@ final class CurrencyCode extends AbstractSearcher
             'COP', // Colombian Peso
             'COU', // Unidad de Valor Real
             'CRC', // Costa Rican Colon
-            'CUC', // Peso Convertible
             'CUP', // Cuban Peso
             'CVE', // Cabo Verde Escudo
             'CZK', // Czech Koruna
